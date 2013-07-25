@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[\$form->isValid();]]></content>
+	<content><![CDATA[\$form->isValid()]]></content>
 	<tabTrigger>form isValid</tabTrigger>
 	<scope>source.php</scope>
-	<description>ZF2: $form->isValid();</description>
+	<description>ZF2: $form->isValid()</description>
 </snippet>
