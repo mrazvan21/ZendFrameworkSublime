@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$form->add(${$var});]]></content>
+	<content><![CDATA[echo \$this->Number->toReadableSize(${1:\$number});$10]]></content>
 	<tabTrigger>form</tabTrigger>
 	<scope>source.php</scope>
 	<description>ZF2: $form->add();</description>
