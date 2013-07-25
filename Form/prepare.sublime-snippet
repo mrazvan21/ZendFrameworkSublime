@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$form->prepare();]]></content>
+	<tabTrigger>form prepare</tabTrigger>
+	<scope>source.php</scope>
+	<description>ZF2: $form->prepare();</description>
+</snippet>
