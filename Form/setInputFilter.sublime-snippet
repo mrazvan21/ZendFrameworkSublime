@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$form->setInputFilter(${1:\$inputFilter});]]></content>
-	<tabTrigger>form</tabTrigger>
+	<tabTrigger>form setInputFilter</tabTrigger>
 	<scope>source.php</scope>
 	<description>ZF2: $form->setInputFilter();</description>
 </snippet>

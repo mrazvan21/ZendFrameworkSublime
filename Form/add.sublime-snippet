@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$form->add(${1:\$var});]]></content>
-	<tabTrigger>form</tabTrigger>
+	<tabTrigger>form add</tabTrigger>
 	<scope>source.php</scope>
 	<description>ZF2: $form->add();</description>
 </snippet>
